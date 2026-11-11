@@ -1,0 +1,41 @@
+# Local configuration
+.env
+.env.*
+!.env.example
+.venv/
+.vscode/
+.idea/
+.codex/
+.agents/
+.codebuddy/
+.aws/
+
+# Python and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.uv-cache/
+.coverage*
+htmlcov/
+
+# Data and run outputs
+data/
+outputs/
+results/
+logs/
+*.log
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.profiles/
+
+# Operating system files
+.DS_Store
+Thumbs.db

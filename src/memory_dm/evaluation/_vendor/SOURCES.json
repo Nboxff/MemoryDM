@@ -1,0 +1,16 @@
+{
+  "bemula_source_sha256": {
+    "bemula/__init__.py": "41ef37c2a17fcdf97aff9e8c8c483aa38e8dbfb366660c1a3283eb1aaf56b516",
+    "bemula/schemas.py": "9374091cc6129064147e559db6ecadc7e7a5c5cf10fc30911ef19a737e1b1726",
+    "bemula/eval/__init__.py": "8b370fe352f55d88ea87b82a0a8553a08709ac0752262f26a5ff0d8225602d04",
+    "bemula/eval/runner.py": "221aa4dc284b49aab36bdd4498ae3fc672810ddb00997d0c497860251eff7ea3",
+    "bemula/eval/judge.py": "1ab3bf4ae78e4d2adf98b0867abaf7cdba7cbe41e41b809687c72d136712b661",
+    "bemula/eval/metrics.py": "7361a87a07aa3979acfa1fbfeec516412d85c5cfc6179acb2ebd64cc67dcbe7b",
+    "bemula/baselines/base.py": "e040bbf216448540145976525477267bc8b0b7ce1248029b9f6fb53a0776b8a6",
+    "bemula/llm.py": "26cd16604f0a3aead01a93e4b6694cb2acf1d3cb0ccc22af7563a31e5db51121",
+    "bemula/questions/generator.py": "476335f73c1cabb27914e8713c3ec6643b2eeca57fcf913427ca7abee1fd059a"
+  },
+  "lightmem_source": "experiments/locomo/llm_judge.py",
+  "lightmem_source_sha256": "753889df01f381980b1d96a4aab480b5ff8b0919e0e0ac7092bbf828bdfe1dc6",
+  "lightmem_prompt_sha256": "62395dd312a631dfd9355026a0b69cc936018274c3198b6365b5c2a5c9bca9e0"
+}
